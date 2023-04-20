@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_conceptMemberFunction", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_allAnyNone", "01_CoreLanguage\07_allAnyNone\07_allAnyNone.vcxproj", "{B890EED7-6A07-4574-A6F9-FB1E48EE0D15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_conceptsOverloadingFunctionTemplates", "01_CoreLanguage\08_conceptsOverloadingFunctionTemplates\08_conceptsOverloadingFunctionTemplates.vcxproj", "{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -83,6 +85,14 @@ Global
 		{B890EED7-6A07-4574-A6F9-FB1E48EE0D15}.Release|x64.Build.0 = Release|x64
 		{B890EED7-6A07-4574-A6F9-FB1E48EE0D15}.Release|x86.ActiveCfg = Release|Win32
 		{B890EED7-6A07-4574-A6F9-FB1E48EE0D15}.Release|x86.Build.0 = Release|Win32
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Debug|x64.ActiveCfg = Debug|x64
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Debug|x64.Build.0 = Debug|x64
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Debug|x86.Build.0 = Debug|Win32
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Release|x64.ActiveCfg = Release|x64
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Release|x64.Build.0 = Release|x64
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Release|x86.ActiveCfg = Release|Win32
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +105,7 @@ Global
 		{0610B026-1CE8-471A-AFA9-50893F79875F} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{438D00A4-5B14-4F2A-8F9E-3851AF497E75} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{B890EED7-6A07-4574-A6F9-FB1E48EE0D15} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
+		{2DCA8D93-DE5B-4018-94D5-41AFA59E39F3} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEA71244-81A7-47C9-8E03-960A8045E009}
