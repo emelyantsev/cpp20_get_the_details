@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_compileTimePredicate", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_conceptClassTemplate", "01_CoreLanguage\05_conceptClassTemplate\05_conceptClassTemplate.vcxproj", "{0610B026-1CE8-471A-AFA9-50893F79875F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_conceptMemberFunction", "01_CoreLanguage\06_conceptMemberFunction\06_conceptMemberFunction.vcxproj", "{438D00A4-5B14-4F2A-8F9E-3851AF497E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,6 +65,14 @@ Global
 		{0610B026-1CE8-471A-AFA9-50893F79875F}.Release|x64.Build.0 = Release|x64
 		{0610B026-1CE8-471A-AFA9-50893F79875F}.Release|x86.ActiveCfg = Release|Win32
 		{0610B026-1CE8-471A-AFA9-50893F79875F}.Release|x86.Build.0 = Release|Win32
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Debug|x64.ActiveCfg = Debug|x64
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Debug|x64.Build.0 = Debug|x64
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Debug|x86.ActiveCfg = Debug|Win32
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Debug|x86.Build.0 = Debug|Win32
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Release|x64.ActiveCfg = Release|x64
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Release|x64.Build.0 = Release|x64
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Release|x86.ActiveCfg = Release|Win32
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +83,7 @@ Global
 		{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{7092FF15-FE66-457B-8682-51021E2961A8} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{0610B026-1CE8-471A-AFA9-50893F79875F} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
+		{438D00A4-5B14-4F2A-8F9E-3851AF497E75} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEA71244-81A7-47C9-8E03-960A8045E009}
