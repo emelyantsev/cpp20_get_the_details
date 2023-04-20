@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_tooGeneric", "01_CoreLan
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_conceptsIntegralVariations", "01_CoreLanguage\03_conceptsIntegralVariations\03_conceptsIntegralVariations.vcxproj", "{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_compileTimePredicate", "01_CoreLanguage\04_compileTimePredicate\04_compileTimePredicate.vcxproj", "{7092FF15-FE66-457B-8682-51021E2961A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,6 +45,14 @@ Global
 		{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF}.Release|x64.Build.0 = Release|x64
 		{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF}.Release|x86.ActiveCfg = Release|Win32
 		{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF}.Release|x86.Build.0 = Release|Win32
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Debug|x64.ActiveCfg = Debug|x64
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Debug|x64.Build.0 = Debug|x64
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Debug|x86.Build.0 = Debug|Win32
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Release|x64.ActiveCfg = Release|x64
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Release|x64.Build.0 = Release|x64
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Release|x86.ActiveCfg = Release|Win32
+		{7092FF15-FE66-457B-8682-51021E2961A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +61,7 @@ Global
 		{D4353F66-13CC-4598-A9EF-0521AE7A093C} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{2C24C4C1-D73D-4293-B011-B9DCA0F91C5D} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 		{24B066D2-D70A-4AC7-BFA4-98F16DCACEBF} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
+		{7092FF15-FE66-457B-8682-51021E2961A8} = {26A5262A-F637-447A-A8AD-259F79B32BD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEA71244-81A7-47C9-8E03-960A8045E009}
