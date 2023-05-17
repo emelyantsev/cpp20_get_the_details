@@ -26,5 +26,10 @@ This repo contains examples from the book [C++20 Get the details](https://github
    - Cooperative Interruption
    - std::jthread
    - Synchronized Output Streams
+4. [Case studies](https://github.com/emelyantsev/cpp20_get_the_details/tree/master/04_CaseStudies)
+   - Fast Synchronization of Threads
+   - Variations of Futures
+   - Modification and Generalization of a Generator
+   - Various Job Workflows
 
 
